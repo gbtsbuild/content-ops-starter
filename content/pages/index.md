@@ -3,17 +3,17 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    title:
-      text: Unblock your team boost your time to production
+    title: GBTS BUILDERS SOLUTION LTD 
+      text: Offering You Quality and Durable Building Materials to Accomplish Your Project
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
+    text: > GBTS, Your One-Stop-Shop for Building Materials.
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
       git commit, git workflows and collaboration just work.
     actions:
-      - label: Get started
+      - label: Explore Our Products
         altText: ''
         url: /
         showIcon: false
@@ -22,7 +22,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Shop now
         altText: ''
         url: /
         showIcon: true
